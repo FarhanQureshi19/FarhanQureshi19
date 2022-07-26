@@ -20,9 +20,9 @@ https://www.youtube.com/watch?v=i02TsRXgHn8&list=PLHP0ui3tQ4DC571l5kXs8mnCap6S7M
 
 Other than staking and IDO, I have vast experience in the field of NFT and done many projects in this field on different blockchain protocols.
 
-nowwhere.io
-Lgnd.art
-cryptotwerpz.com
+[nowwhere.io](https://nowwhere.io/index)
+[Lgnd.art](https://lgnd.art/)
+[cryptotwerpz.com](https://cryptotwerpz.com/)
 
 And many more project. Being in this field, I have also work as blockchain consultant with product team on 50+ blockchain projects and did product work from them.
 
