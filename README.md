@@ -1,4 +1,4 @@
-<h2> Hi there 👋, I'm Farhan Shafique working as a senior blockchain developer from past 5 years! </h2>
+<h2> Hi there 👋, I'm Farhan Shafique working as a Senior blockchain Developer from past 5 years! </h2>
     
 [![farhan-shafique Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-shafique/)
 [![farhan-shafique Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/farhan.shafique1994@gmail.com)
