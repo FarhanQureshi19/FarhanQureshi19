@@ -3,7 +3,7 @@
 [![farhan-shafique Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhan-shafique/)
 [![farhan-shafique Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/farhan.shafique1994@gmail.com)
 
-I specialize in **building scalable blockchain solutions, decentralized finance (DeFi) applications, and crypto trading systems**. With **4+ years of experience** in blockchain development and exchange platforms, I have worked on **centralized and decentralized exchanges (CEX/DEX), smart contract security, NFT ecosystems, multi-chain interoperability, and cryptographic security models**.
+I specialize in **building scalable blockchain solutions, decentralized finance (DeFi) applications, and crypto trading systems**. With **6+ years of experience** in blockchain development and exchange platforms, I have worked on **centralized and decentralized exchanges (CEX/DEX), smart contract security, NFT ecosystems, multi-chain interoperability, and cryptographic security models**.
 
 With strong experience in **product strategy**, I focus on **converting business requirements into technical solutions**, managing **MVP development, product roadmaps, backlog management**, and driving projects from **ideation to launch**.
 
